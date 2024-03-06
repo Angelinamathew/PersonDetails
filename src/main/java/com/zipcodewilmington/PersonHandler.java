@@ -26,6 +26,7 @@ public class PersonHandler {
             String str = person.toString();
             // append `stringRepresentation` to `result` variable
             result += str;
+            //increment
             counter++;
         }
         // end loop
